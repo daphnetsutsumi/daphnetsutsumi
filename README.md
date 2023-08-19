@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/daphnetsutsumi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daphnetsutsumi&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnetsutsumi&layout=compact&langs_count=16&theme=omni"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daphnetsutsumi&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnetsutsumi&layout=compact&langs_count=16&theme=omni"/> 
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,5 +28,3 @@
   <a href="mailto:contatodaphnetsutsumi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/daphnetsutsumi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation]("https://github.com/daphnetsutsumi/daphnetsutsumi/blob/output/github-contribution-grid-snake.svg")
