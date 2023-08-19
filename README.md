@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/daphnetsutsumi">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daphnetsutsumi&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnetsutsumi&layout=compact&langs_count=16&theme=omni"/> 
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=daphnetsutsumi&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnetsutsumi&layout=compact&langs_count=16&theme=omni"/> 
 </div>
 
 <div style="display: inline_block"><br>
