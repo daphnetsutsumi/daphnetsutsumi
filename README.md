@@ -1,4 +1,4 @@
-### Oiii! Eu sou a Daphne Tsutsumi, criadora de conteúdo de programação e games!
+### Oiii! Eu sou a Daphne Tsutsumi, criadora de conteúdo de programação e games! 👋
 
 - 🔭 Trabalho com Front-End
 - 🌱 Estudando HTML, CSS e Javascript
@@ -6,7 +6,7 @@
 - 🧩 Autista Nível 1 de Suporte
 
 <div>
-  <a href="https://github.com/daphnetsutsumi">
+  <a href="https://beacons.ai/daphnetsutsumi">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=daphnetsutsumi&show_icons=true&rank_icon=github&theme=omni&include_all_commits=true&count_private=true&border_radius=8.5"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daphnetsutsumi&layout=compact&langs_count=16&theme=omni"/> 
 </div>
